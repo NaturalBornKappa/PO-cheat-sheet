@@ -6,4 +6,5 @@ Nie mamy nic do stracenia oprócz naszych łańcuchów, więc bierzmy jedzmy z t
 
 
 Przydatne linki dla świeżaków z Biedronki:
- https://github.com/pbiecek/Przewodnik/blob/master/Programowanie/jak_korzystac_z_serwisu_github_i_waffle.md
+ - https://github.com/pbiecek/Przewodnik/blob/master/Programowanie/jak_korzystac_z_serwisu_github_i_waffle.md
+ - https://goalkicker.com/CPlusPlusBook/
